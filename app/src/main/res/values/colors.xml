@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="dark_gray">#333333</color>
+    <color name="title_bg">#fafafa</color>
+
+    <color name="Gray1">#f5f5f5</color>
+    <color name="Gray2">#eeeaea</color>
+    <color name="Gray3">#dddddd</color>
+    <color name="Gray4">#cccccc</color>
+    <color name="Gray5">#aaaaaa</color>
+    <color name="Gray6">#808080</color>
+    <color name="Gray7">#202020</color>
+    <color name="Gray8">#1c191a</color>
+    <color name="Gray">#eeeeee</color>
+
+    <color name="White">#ffffff</color>
+    <color name="Black40">#66000000</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="half_alpha_white">#99ffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_dark">#ff000000</color>
+    <color name="background_light">#ffffff</color>
+
+    <color name="divider_color">#cccccc</color>
+    <color name="divider_color2">#999999</color>
+    <color name="text_color">#333333</color>
+    <color name="text_color_main">#999999</color>
+    <color name="text_integral_hint_color">#cccccc</color>
+    <color name="list_text_color">#666666</color>
+    <color name="login_text_color">#cacaca</color>
+    <color name="main_blue">#039ae3</color>
+    <color name="contact_parent_color">#1d89ff</color>
+    <color name="line_color">#e0e0e0</color>
+    <color name="bg9">#c8c8c8</color>
+    <color name="edit_hint_textcolor">#bdbdbd</color>
+    <color name="yellow">#ffc63f</color>
+
+    <color name="bg_trans_70">#b2ffffff</color>
+    <color name="bg_trans_80">#ccffffff</color>
+    <color name="bg_trans_50">#80ffffff</color>
+    <color name="bg_trans_60">#99ffffff</color>
+    <color name="menu_button_select_color">#221d89ff</color>
+    <color name="text_color1">#3db0e8</color>
+    <color name="text_color2">#999999</color>
+    <color name="text_color3">#353535</color>
+    <color name="text_color4">#7c7c7c</color>
+    <color name="text_color5">#f44336</color>
+    <color name="text_color9">#333333</color>
+    <color name="text_color10">#7cb42b</color>
+    <color name="text_color12">#666666</color>
+    <color name="text_color14">#ea0000</color>
+    <color name="text_color15">#646464</color>
+    <color name="text_color16">#f7993d</color>
+    <color name="text_color17">#ff382d</color>
+    <color name="text_color18">#83b834</color>
+    <color name="text_color19">#dedede</color>
+    <color name="text_color20">#1eaef3</color>
+    <color name="text_color21">#555555</color>
+    <color name="text_color22">#b5b5b5</color>
+    <color name="text_color23">#ff678b</color>
+    <color name="text_color24">#757575</color>
+    <color name="text_color25">#945700</color>
+    <color name="text_color26">#f0f0f0</color>
+    <color name="text_color27">#c9c9c9</color>
+    <color name="background_color">#ff678b</color>
+
+    <color name="bg_main">#f2f2f2</color>
+    <color name="bg_main2">#EFF2F7</color>
+
+    <color name="text_red_color">#ff2a2a</color>
+
+    <color name="bg15">#ebebeb</color>
+    <color name="bg16">#e6e6e6</color>
+    <color name="bg17">#94c749</color>
+    <color name="bg18">#ed5b53</color>
+    <color name="bg19">#b9b9b9</color>
+    <color name="bg20">#9a9a9a</color>
+    <color name="bg_alpha">#00000000</color>
+    <color name="text_color_gray">#999999</color>
+
+    <color name="correct_color">#28e324</color>
+    <color name="error_color">#f84a4a</color>
+    <color name="scheduler_color">#f9fafc</color>
+    <color name="text_header_color">#fc6060</color>
+    <!--覆盖颜色-->
+    <color name="bgColor_overlay">#60000000</color>
+    <color name="bg_divider">#e5e5e5</color>
+
+    <color name="pickerview_timebtn_nor">#057dff</color>
+    <color name="pickerview_timebtn_pre">#c2daf5</color>
+    <color name="pickerview_bg_topbar">#f5f5f5</color>
+    <color name="pickerview_topbar_title">#000000</color>
+    <color name="pickerview_wheelview_textcolor_out">#a0a0a0</color>
+    <color name="pickerview_wheelview_textcolor_center">#313131</color>
+    <color name="pickerview_wheelview_textcolor_divider">#c6c6c6</color>
+    <color name="theme_color">#FFFFDD3E</color>
+    <color name="btn_theme_color_p">#FFFFDD3E</color>
+    <color name="btn_theme_color_n">#FFFFE29F</color>
+    <color name="bg_trans_20_black">#33000000</color>
+    <color name="bg_trans_30_black">#4c000000</color>
+    <color name="bg_trans_70_black">#B3000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <color name="color_progress">#FFDD3E</color>
+</resources>
