@@ -1,4 +1,4 @@
 # Screenshots
-![](https://github.com/jinguangyue/VideoList/blob/master/screenshot/20161212171914191.png)"# VideoList" 
-# VideoList
-# MyVideoList
+# 自己写个小demon以便于在项目中用
+
+
